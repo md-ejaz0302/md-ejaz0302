@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, AI
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me Email : mdejaz0302@gmail.com/ Insta : md_ejaz0302
-- 😄 Pronouns: Tech Enthusiast
+- 😄 Pronouns: Rehan
 - ⚡ Fun fact: I'm currently a Web Developer.
 
 <!---
